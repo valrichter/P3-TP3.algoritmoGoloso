@@ -1,0 +1,314 @@
+{
+  "campeonatoFechas": [
+    {
+      "numeroFecha": 1,
+      "partidos": [
+        {
+          "equipo1": {
+            "nombre": "Independiente",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "equipo2": {
+            "nombre": "Racing",
+            "arbitros": {
+              "1": 2,
+              "2": 1,
+              "3": 2
+            }
+          },
+          "arbitro": 1
+        },
+        {
+          "equipo1": {
+            "nombre": "River",
+            "arbitros": {
+              "1": 0,
+              "2": 2,
+              "3": 3
+            }
+          },
+          "equipo2": {
+            "nombre": "Boca",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "arbitro": 2
+        },
+        {
+          "equipo1": {
+            "nombre": "San_Lorenzo",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "equipo2": {
+            "nombre": "Huracan",
+            "arbitros": {
+              "1": 2,
+              "2": 1,
+              "3": 2
+            }
+          },
+          "arbitro": 3
+        }
+      ]
+    },
+    {
+      "numeroFecha": 2,
+      "partidos": [
+        {
+          "equipo1": {
+            "nombre": "San_Lorenzo",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "equipo2": {
+            "nombre": "Boca",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "arbitro": 1
+        },
+        {
+          "equipo1": {
+            "nombre": "Huracan",
+            "arbitros": {
+              "1": 2,
+              "2": 1,
+              "3": 2
+            }
+          },
+          "equipo2": {
+            "nombre": "Racing",
+            "arbitros": {
+              "1": 2,
+              "2": 1,
+              "3": 2
+            }
+          },
+          "arbitro": 2
+        },
+        {
+          "equipo1": {
+            "nombre": "River",
+            "arbitros": {
+              "1": 0,
+              "2": 2,
+              "3": 3
+            }
+          },
+          "equipo2": {
+            "nombre": "Independiente",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "arbitro": 3
+        }
+      ]
+    },
+    {
+      "numeroFecha": 3,
+      "partidos": [
+        {
+          "equipo1": {
+            "nombre": "Huracan",
+            "arbitros": {
+              "1": 2,
+              "2": 1,
+              "3": 2
+            }
+          },
+          "equipo2": {
+            "nombre": "Independiente",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "arbitro": 1
+        },
+        {
+          "equipo1": {
+            "nombre": "River",
+            "arbitros": {
+              "1": 0,
+              "2": 2,
+              "3": 3
+            }
+          },
+          "equipo2": {
+            "nombre": "San_Lorenzo",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "arbitro": 2
+        },
+        {
+          "equipo1": {
+            "nombre": "Racing",
+            "arbitros": {
+              "1": 2,
+              "2": 1,
+              "3": 2
+            }
+          },
+          "equipo2": {
+            "nombre": "Boca",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "arbitro": 3
+        }
+      ]
+    },
+    {
+      "numeroFecha": 4,
+      "partidos": [
+        {
+          "equipo1": {
+            "nombre": "Racing",
+            "arbitros": {
+              "1": 2,
+              "2": 1,
+              "3": 2
+            }
+          },
+          "equipo2": {
+            "nombre": "San_Lorenzo",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "arbitro": 1
+        },
+        {
+          "equipo1": {
+            "nombre": "River",
+            "arbitros": {
+              "1": 0,
+              "2": 2,
+              "3": 3
+            }
+          },
+          "equipo2": {
+            "nombre": "Huracan",
+            "arbitros": {
+              "1": 2,
+              "2": 1,
+              "3": 2
+            }
+          },
+          "arbitro": 3
+        },
+        {
+          "equipo1": {
+            "nombre": "Boca",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "equipo2": {
+            "nombre": "Independiente",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "arbitro": 2
+        }
+      ]
+    },
+    {
+      "numeroFecha": 5,
+      "partidos": [
+        {
+          "equipo1": {
+            "nombre": "Boca",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "equipo2": {
+            "nombre": "Huracan",
+            "arbitros": {
+              "1": 2,
+              "2": 1,
+              "3": 2
+            }
+          },
+          "arbitro": 1
+        },
+        {
+          "equipo1": {
+            "nombre": "Independiente",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "equipo2": {
+            "nombre": "San_Lorenzo",
+            "arbitros": {
+              "1": 2,
+              "2": 2,
+              "3": 1
+            }
+          },
+          "arbitro": 2
+        },
+        {
+          "equipo1": {
+            "nombre": "River",
+            "arbitros": {
+              "1": 0,
+              "2": 2,
+              "3": 3
+            }
+          },
+          "equipo2": {
+            "nombre": "Racing",
+            "arbitros": {
+              "1": 2,
+              "2": 1,
+              "3": 2
+            }
+          },
+          "arbitro": 3
+        }
+      ]
+    }
+  ]
+}

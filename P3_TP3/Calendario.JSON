@@ -1,0 +1,194 @@
+{
+  "campeonatoFechas": [
+    {
+      "numeroFecha": 1,
+      "partidos": [
+        {
+          "equipo1": {
+            "nombre": "Independiente",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Racing",
+            "arbitros": {}
+          },
+          "arbitro": null
+        },
+        {
+          "equipo1": {
+            "nombre": "River",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Boca",
+            "arbitros": {}
+          },
+          "arbitro": null
+        },
+        {
+          "equipo1": {
+            "nombre": "San_Lorenzo",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Huracan",
+            "arbitros": {}
+          },
+          "arbitro": null
+        }
+      ]
+    },
+    {
+      "numeroFecha": 2,
+      "partidos": [
+        {
+          "equipo1": {
+            "nombre": "San_Lorenzo",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Boca",
+            "arbitros": {}
+          },
+          "arbitro": null
+        },
+        {
+          "equipo1": {
+            "nombre": "Huracan",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Racing",
+            "arbitros": {}
+          },
+          "arbitro": null
+        },
+        {
+          "equipo1": {
+            "nombre": "River",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Independiente",
+            "arbitros": {}
+          },
+          "arbitro": null
+        }
+      ]
+    },
+    {
+      "numeroFecha": 3,
+      "partidos": [
+        {
+          "equipo1": {
+            "nombre": "Huracan",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Independiente",
+            "arbitros": {}
+          },
+          "arbitro": null
+        },
+        {
+          "equipo1": {
+            "nombre": "River",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "San_Lorenzo",
+            "arbitros": {}
+          },
+          "arbitro": null
+        },
+        {
+          "equipo1": {
+            "nombre": "Racing",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Boca",
+            "arbitros": {}
+          },
+          "arbitro": null
+        }
+      ]
+    },
+    {
+      "numeroFecha": 4,
+      "partidos": [
+        {
+          "equipo1": {
+            "nombre": "Racing",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "San_Lorenzo",
+            "arbitros": {}
+          },
+          "arbitro": null
+        },
+        {
+          "equipo1": {
+            "nombre": "River",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Huracan",
+            "arbitros": {}
+          },
+          "arbitro": null
+        },
+        {
+          "equipo1": {
+            "nombre": "Boca",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Independiente",
+            "arbitros": {}
+          },
+          "arbitro": null
+        }
+      ]
+    },
+    {
+      "numeroFecha": 5,
+      "partidos": [
+        {
+          "equipo1": {
+            "nombre": "Boca",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Huracan",
+            "arbitros": {}
+          },
+          "arbitro": null
+        },
+        {
+          "equipo1": {
+            "nombre": "Independiente",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "San_Lorenzo",
+            "arbitros": {}
+          },
+          "arbitro": null
+        },
+        {
+          "equipo1": {
+            "nombre": "River",
+            "arbitros": {}
+          },
+          "equipo2": {
+            "nombre": "Racing",
+            "arbitros": {}
+          },
+          "arbitro": null
+        }
+      ]
+    }
+  ]
+}
