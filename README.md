@@ -1,6 +1,6 @@
 # Programacion 3
 
-## P3-KruskalUnionFind-2S-2021
+## P3-AlgoritmoGoloso-2S-2021
 
 ### BREVE EXPLICACION DE LA CONSIGNA
 El objetivo del trabajo practico es implementar un algoritmo goloso para asignar arbitros
